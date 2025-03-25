@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=BBBDB5&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Micha+%F0%9F%91%8B%F0%9F%8F%BC;I'm+a+Frontend+Developer;I+like+coding+%26+Flamingos+%F0%9F%A6%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=BBBDB5&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Micha+%F0%9F%91%8B%F0%9F%8F%BC;I'm+a+Frontend+Developer;I+like+coding+%26+flamingos+%F0%9F%A6%A9" alt="Typing SVG" />
 </div>
 
 
@@ -70,6 +70,7 @@
 
 ###
 
+<!-- streak-stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeRacon&theme=ayu-mirage" alt="GitHub Streak" />
 </div>
