@@ -72,8 +72,9 @@
 
 <!-- streak-stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeRacon&theme=ayu-mirage" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CodeRacon&theme=ayu-mirage" alt="GitHub Streak" />
 </div>
+
 
 
 ###
